@@ -13,7 +13,7 @@ export default function Ecole() {
   return (
     <>
       <Head>
-        <title>L'école</title>
+        <title>L&apos;école</title>
         <meta
           name="description"
           content="Notre école de kitesurf située à Brétignolles sur mer vous propose des stages avec des moniteurs diplômés depuis 2005."
@@ -84,6 +84,7 @@ export default function Ecole() {
               src="/ecole5.jpeg"
               width="400"
               height="400"
+              alt=""
               className="rounded-full"
             ></Image>
             <h4 className="text-center mt-4">Encadrement bateau</h4>
@@ -93,6 +94,7 @@ export default function Ecole() {
               src="/ecole6.jpeg"
               width="400"
               height="400"
+              alt=""
               className="rounded-full"
             ></Image>
             <h4 className="text-center mt-4">Liaison radio</h4>

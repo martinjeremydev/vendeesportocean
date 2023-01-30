@@ -41,6 +41,7 @@ export default function BoueeTractee() {
               src="/bouee2.jpeg"
               width="400"
               height="400"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -49,6 +50,7 @@ export default function BoueeTractee() {
               src="/bouee3.jpeg"
               width="400"
               height="400"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -80,6 +82,7 @@ export default function BoueeTractee() {
               src="/bouee5.jpeg"
               width="400"
               height="400"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -87,6 +90,7 @@ export default function BoueeTractee() {
             <Image
               src="/bouee6.jpeg"
               width="400"
+              alt=""
               height="400"
               className="rounded-md"
             ></Image>

@@ -43,6 +43,7 @@ export default function Herbergement() {
               src="/hebergement2.jpeg"
               width="400"
               height="300"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -51,6 +52,7 @@ export default function Herbergement() {
               src="/hebergement3.jpeg"
               width="400"
               height="300"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -70,6 +72,7 @@ export default function Herbergement() {
               src="/hebergement5.jpeg"
               width="400"
               height="300"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
@@ -78,6 +81,7 @@ export default function Herbergement() {
               src="/hebergement6.jpeg"
               width="400"
               height="300"
+              alt=""
               className="rounded-md"
             ></Image>
           </div>
