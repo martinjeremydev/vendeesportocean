@@ -15,7 +15,7 @@ export default function BoueeTractee() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="lg:container mx-auto animate__animated animate__fadeIn animate__delay-1s">
+      <div className="lg:container mx-auto">
         <Header></Header>
         <h1 className="text-3xl text-center my-10">Bouée tractée</h1>
         <p className="mb-8 text-l px-4 md:px-8 lg:px-10">

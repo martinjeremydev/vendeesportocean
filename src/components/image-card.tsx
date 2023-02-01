@@ -6,11 +6,11 @@ import Image from "next/image";
 export default function ImageCard({
   title,
   imageSrc,
-  time = null,
-  persons = null,
-  price = null,
-  description = null,
   color,
+  time,
+  persons,
+  price,
+  description,
 }) {
   return (
     <div className={"max-w-sm rounded-lg shadow " + color}>

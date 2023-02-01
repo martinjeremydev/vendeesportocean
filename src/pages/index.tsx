@@ -69,6 +69,10 @@ export default function Home() {
               title="Initiation"
               imageSrc="/initiation.jpeg"
               color="bg-teal-200"
+              time={null}
+              persons={null}
+              price={null}
+              description={null}
             ></ImageCard>
           </div>
           <div className="mx-auto mt-4 md:mt-0 md:ml-4 animate__animated animate__fadeIn animate__delay-2s">
@@ -76,6 +80,10 @@ export default function Home() {
               title="Evolution"
               imageSrc="/evolution.jpeg"
               color="bg-cyan-200"
+              time={null}
+              persons={null}
+              price={null}
+              description={null}
             ></ImageCard>
           </div>
           <div className="mx-auto mt-4 lg:mt-0 animate__animated animate__fadeIn animate__delay-3s">
@@ -83,6 +91,10 @@ export default function Home() {
               title="Perfectionnement"
               imageSrc="/perfectionnement.jpeg"
               color="bg-violet-200"
+              time={null}
+              persons={null}
+              price={null}
+              description={null}
             ></ImageCard>
           </div>
         </div>

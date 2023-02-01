@@ -19,7 +19,7 @@ export default function Stages() {
         <Header></Header>
         <h2 className="text-3xl text-center my-10">Nos prestations</h2>
         <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:mb-8">
-          <div className="mx-auto mb-4 animate__animated animate__fadeIn animate__delay-1s">
+          <div className="mx-auto mb-4">
             <ImageCard
               title="Initiation"
               imageSrc="/initiation.jpeg"
